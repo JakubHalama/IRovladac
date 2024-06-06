@@ -2,7 +2,9 @@
 
 Tento program umožňuje řídit tři LED diody (červenou, zelenou a modrou) pomocí infračerveného dálkového ovladače a desky Arduino.
 
+
 Hardware požadavky:
+
 
 Deska Arduino
 
@@ -23,7 +25,9 @@ Nahrajte kód do Arduina.
 
 Otevřete sériový monitor v Arduino IDE (nastavte rychlost na 9600 baudů).
 
+
 Jak používat:
+
 
 Zapněte sériový monitor pro sledování výstupů.
 
@@ -35,7 +39,9 @@ Druhá hodnota nastaví jas zelené LED.
 
 Třetí hodnota nastaví jas modré LED.
 
+
 Pro zadání hodnot:
+
 
 Stiskněte tlačítka na dálkovém ovladači odpovídající číslům (0-9).
 
